@@ -1,0 +1,37 @@
+ Text Challenges
+Description :Collect 20 messy sentences and identify slang, emojis, typos; explain preprocessing needed.
+
+20 Messy Sentences
+omg this movie is sooo good 😂
+i luv this phone!!!
+wat r u doing??
+gr8 work bro 👍
+this is baaad
+lol that was funny
+im soooo tired 😴
+cant w8 for weekend
+dis is cool
+heyyy wassup
+gud morninggg
+soooo boring class
+this app sux
+thx alot 😊
+y r u late
+im happyyyy
+nooooo way
+thatz awesome
+pls reply asap
+okkk done
+
+ Issues Identified:
+Slang: omg, luv, gr8
+Emojis: 😂 👍 😴
+Typos: wat, gud, dis
+Repetition: sooo, noooo
+
+Preprocessing Steps:
+Lowercase
+Remove punctuation
+Remove emojis
+Correct spelling
+Remove stopwords

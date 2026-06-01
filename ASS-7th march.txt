@@ -1,0 +1,3 @@
+KNN in Real Life
+Description : Explain Netflix-like recommendations using KNN and create a small similarity example.
+

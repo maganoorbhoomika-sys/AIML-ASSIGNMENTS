@@ -1,0 +1,33 @@
+Assignment Name :AI Around Me
+Description : List 10 real-life AI applications you use daily and explain how ML might work behind each in 1–2 lines
+
+
+1. Google Maps
+   Google Maps uses machine learning to analyze traffic data, road conditions, and user locations to suggest the fastest route and estimate travel time.
+
+2. YouTube
+   YouTube uses ML algorithms to study your watch history, likes, and viewing time to recommend videos that match your interests.
+
+3. Gmail
+   Gmail uses machine learning to detect spam emails by learning patterns from millions of emails and filtering unwanted messages automatically.
+
+4. Instagram
+   Instagram uses ML to analyze user activities like likes, comments, and shares to show posts that are most relevant to the user.
+
+5. Amazon
+   Amazon uses ML-based recommendation systems to suggest products based on your browsing history, previous purchases, and similar user behavior.
+
+6. Spotify
+   Spotify uses machine learning to study listening habits and music preferences to create personalized playlists and recommend new songs.
+
+7. Google Photos
+   Google Photos uses deep learning and image recognition to identify faces, objects, and locations in photos to organize them automatically.
+
+8. Netflix
+   Netflix uses ML algorithms to analyze what users watch and rate, then recommends movies and TV shows that they might like.
+
+9. Google Assistant
+   Google Assistant uses speech recognition and natural language processing to understand voice commands and provide appropriate responses.
+
+10. Gboard (Google Keyboard)
+    Gboard uses machine learning to predict the next word while typing by learning from typing patterns and commonly used words.
